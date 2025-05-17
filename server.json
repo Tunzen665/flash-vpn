@@ -10,5 +10,11 @@
     "name": "Key2",
     "key": "vless://ccfdcccc-8351-4bfa-a324-26ec1a3e477e@47japan3.ygtyftdrtytgyft.xyz:32547?type=tcp&security=none#Japan",
     "vip": false
+  },
+    {
+    "flag": "mm",
+    "name": "Key3",
+    "key": "vless://ccfdcccc-8351-4bfa-a324-26ec1a3e477e@47japan3.ygtyftdrtytgyft.xyz:32547?type=tcp&security=none#Japan",
+    "vip": false
   }
 ]
