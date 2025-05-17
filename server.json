@@ -1,4 +1,4 @@
-let update server with github json data like [
+[
   {
     "flag": "us",
     "name": "Key1",
