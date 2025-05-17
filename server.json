@@ -1,0 +1,14 @@
+let update server with github json data like [
+  {
+    "flag": "us",
+    "name": "Key1",
+    "key": "ss://",
+    "vip": true
+  },
+  {
+    "flag": "fr",
+    "name": "Key2",
+    "key": "vless://",
+    "vip": false
+  }
+]
