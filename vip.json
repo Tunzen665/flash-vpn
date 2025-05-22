@@ -1,0 +1,16 @@
+{
+  "vip_users": [
+    {
+      "id": "user_001",
+      "month": "3"
+    },
+    {
+      "id": "user_002",
+      "month": "2"
+    },
+    {
+      "id": "user_003",
+      "month": "1"
+    }
+  ]
+}
