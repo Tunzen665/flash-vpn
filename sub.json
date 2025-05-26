@@ -1,5 +1,5 @@
 {
 
-  "sub_1": "https://first-url.com",
-  "sub_2": "https://second-url.com"
+  "sub_1": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
+  "sub_2": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt"
 }
