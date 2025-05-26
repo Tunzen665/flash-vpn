@@ -7,6 +7,14 @@
     {
       "type": "rewarded",
       "ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+    },
+    {
+      "type": "interstitial",
+      "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+    },
+    {
+      "type": "app_open",
+      "ad_unit_id": "ca-app-pub-3940256099942544/9257395921",
     }
   ]
 }
