@@ -8,13 +8,13 @@
   {
     "flag": "fr",
     "name": "Key2",
-    "key": "vless://ccfdcccc-8351-4bfa-a324-26ec1a3e477e@47japan3.ygtyftdrtytgyft.xyz:32547?type=tcp&security=none#Japan",
+    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNLWN2OWNwc3hlIiwKICAiYWRkIjogIjU0LjE3OS4xODMuMjUxIiwKICAicG9ydCI6IDU2ODc5LAogICJpZCI6ICI5MzE3ZWE2MC0yZTVkLTQ2NDAtODc0NC0wOWNlNTI0OGIwYjMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==",
     "vip": false
   },
     {
     "flag": "mm",
     "name": "Key3",
-    "key": "vless://ccfdcccc-8351-4bfa-a324-26ec1a3e477e@47japan3.ygtyftdrtytgyft.xyz:32547?type=tcp&security=none#Japan",
+    "key": "vless://f8d3c6c9-bc39-4875-8902-579ac527c468@54.179.183.251:43993?security=none&encryption=none&headerType=none&type=tcp#Ro",
     "vip": false
   }
 ]
