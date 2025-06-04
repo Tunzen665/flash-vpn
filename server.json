@@ -1,19 +1,19 @@
 [
   {
-    "flag": "us",
-    "name": "Key1",
+    "flag": "sg",
+    "name": "Singapore",
     "key": "ss://YWVzLTI1Ni1nY206OTdsbEJoWGlvZkpIR2g5RFNGVGI3WmdwcENoT004VVEvdWJZRXVmWlVoQT0@54.179.183.251:11911?type=tcp#XZ-8lndsp1l",
     "vip": true
   },
   {
-    "flag": "fr",
-    "name": "Key2",
-    "key": "vmess://wogICJ2IjogIjIiLAogICJwcyI6ICJNLWN2OWNwc3hlIiwKICAiYWRkIjogIjU0LjE3OS4xODMuMjUxIiwKICAicG9ydCI6IDU2ODc5LAogICJpZCI6ICI5MzE3ZWE2MC0yZTVkLTQ2NDAtODc0NC0wOWNlNTI0OGIwYjMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==",
+    "flag": "sg",
+    "name": "Singapore",
+    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNLWN2OWNwc3hlIiwKICAiYWRkIjogIjU0LjE3OS4xODMuMjUxIiwKICAicG9ydCI6IDU2ODc5LAogICJpZCI6ICI5MzE3ZWE2MC0yZTVkLTQ2NDAtODc0NC0wOWNlNTI0OGIwYjMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==",
     "vip": false
   },
     {
-    "flag": "mm",
-    "name": "Key3",
+    "flag": "sg",
+    "name": "Singapore",
     "key": "vless://f8d3c6c9-bc39-4875-8902-579ac527c468@54.179.183.251:43993?security=none&encryption=none&headerType=none&type=tcp#Ro",
     "vip": false
   }
