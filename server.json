@@ -2,7 +2,7 @@
   {
     "flag": "us",
     "name": "Key1",
-    "key": "ss://YWVzLTI1Ni1nY206OTdsbEJoWGlvZkpIR2g5RFNGVGI3WmdwcENoT004VVEvdWJZRXVmWlVoQT0@54.179.183.25:11911?type=tcp#XZ-8lndsp1l",
+    "key": "ss://YWVzLTI1Ni1nY206OTdsbEJoWGlvZkpIR2g5RFNGVGI3WmdwcENoT004VVEvdWJZRXVmWlVoQT0@54.179.183.251:11911?type=tcp#XZ-8lndsp1l",
     "vip": true
   },
   {
@@ -14,7 +14,7 @@
     {
     "flag": "mm",
     "name": "Key3",
-    "key": "vless://f8d3c6c9-bc39-4875-8902-579ac527c468@54.179.183.25:43993?security=none&encryption=none&headerType=none&type=tcp#Ro",
+    "key": "vless://f8d3c6c9-bc39-4875-8902-579ac527c468@54.179.183.251:43993?security=none&encryption=none&headerType=none&type=tcp#Ro",
     "vip": false
   }
 ]
