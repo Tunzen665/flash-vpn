@@ -3,18 +3,25 @@
     "flag": "sg",
     "name": "Singapore",
     "key": "ss://YWVzLTI1Ni1nY206OTdsbEJoWGlvZkpIR2g5RFNGVGI3WmdwcENoT004VVEvdWJZRXVmWlVoQT0@54.179.183.251:11911?type=tcp#XZ-8lndsp1l",
-    "vip": true
+    "vip": false
   },
   {
-    "flag": "sg",
-    "name": "Singapore",
-    "key": "vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJNLWN2OWNwc3hlIiwKICAiYWRkIjogIjU0LjE3OS4xODMuMjUxIiwKICAicG9ydCI6IDU2ODc5LAogICJpZCI6ICI5MzE3ZWE2MC0yZTVkLTQ2NDAtODc0NC0wOWNlNTI0OGIwYjMiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0eXBlIjogIm5vbmUiLAogICJ0bHMiOiAibm9uZSIKfQ==",
+    "flag": "in",
+    "name": "India",
+    "key": "vless://81e4973f-04fa-485a-97ce-7b44f66add1c@43.205.217.43:80?path=%2Fflashvpnmm&security=none&encryption=none&host=static.kbzpay.com&type=ws#Bypass",
     "vip": false
   },
     {
-    "flag": "sg",
-    "name": "Singapore",
-    "key": "vless://f8d3c6c9-bc39-4875-8902-579ac527c468@54.179.183.251:43993?security=none&encryption=none&headerType=none&type=tcp#Ro",
+    "flag": "in",
+    "name": "India",
+    "key": "vless://81e4973f-04fa-485a-97ce-7b44f66add1c@43.205.217.43:80?path=%2Fflashvpnmm&security=none&encryption=none&host=portal-as.ruijienetworks.com&type=ws#Bypasser",
     "vip": false
-  }
+  },
+{
+    "flag": "mm",
+    "name": "Myanmar",
+    "key": "vless://6bf0cb1f-5d6e-42c1-b675-04df6bdb767a@103.186.241.131:46141?type=tcp&security=none#Myanmar",
+    "vip": true
+}
+  
 ]
