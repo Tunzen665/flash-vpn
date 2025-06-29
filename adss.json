@@ -1,1 +1,20 @@
-
+{
+  "ads": [
+    {
+      "type": "banner",
+      "ad_unit_id": "ca-app-pub-3940256099942544/630097111"
+    },
+    {
+      "type": "rewarded",
+      "ad_unit_id": "ca-app-pub-3940256099942544/522454917"
+    },
+    {
+      "type": "interstitial",
+      "ad_unit_id": "ca-app-pub-3940256099942544/103313712"
+    },
+    {
+      "type": "app_open",
+      "ad_unit_id": "ca-app-pub-3940256099942544/341935294"
+    }
+  ]
+}
